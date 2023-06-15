@@ -1,6 +1,6 @@
 import Header from '../components/Header';
 import Post from '../components/Post';
-import { posts } from '../data';
+// import { posts } from '../data';
 import { PostType } from '../types';
 import '../styles/Posts.css';
 
